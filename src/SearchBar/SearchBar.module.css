@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  gap: 8px;
+  margin: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  min-width: 400px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  background: purple;
+}
